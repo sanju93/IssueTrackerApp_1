@@ -1,0 +1,15 @@
+body{
+    font-family: cursive;
+    background-image: linear-gradient(360deg,red,blue);
+}
+#issue{
+    background-color:  #dce0e4;
+    margin-bottom: 5px;
+}
+#issue:hover{
+    background-color: cadetblue;
+}
+
+.btn:hover{
+    background-color: #9f1825;
+}
